@@ -1,0 +1,9 @@
+__pycache__/
+*.pyc
+.DS_Store
+demo/
+generated/
+private-songs/
+references/local-projects.json
+*.mp4
+*.webm
