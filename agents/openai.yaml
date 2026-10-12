@@ -1,0 +1,6 @@
+interface:
+  display_name: "歌曲动画"
+  short_description: "一句话替换歌曲、歌词和动态背景，制作可播放网页并导出音乐文字视频"
+  default_prompt: "使用 $song-animation，把我的歌曲做成带跳动歌词和动态背景的网页。"
+policy:
+  allow_implicit_invocation: true
