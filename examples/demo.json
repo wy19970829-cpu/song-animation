@@ -1,0 +1,53 @@
+{
+  "title": "让文字跳起来",
+  "artist": "原创旋律演示",
+  "audio": "../assets/demo.wav",
+  "background": {
+    "preset": "rose"
+  },
+  "motion": {
+    "strength": 1
+  },
+  "lyrics": [
+    {
+      "time": 0.2,
+      "text": "风从远方轻轻吹来",
+      "vocalEnd": 2.8
+    },
+    {
+      "time": 3.2,
+      "text": "文字在音乐里盛开",
+      "vocalEnd": 5.8
+    },
+    {
+      "time": 6.2,
+      "text": "把今天写成一颗星",
+      "vocalEnd": 8.8
+    },
+    {
+      "time": 9.2,
+      "text": "让它照亮夜里的海",
+      "vocalEnd": 11.8
+    },
+    {
+      "time": 12.2,
+      "text": "换一种颜色的心情",
+      "vocalEnd": 14.8
+    },
+    {
+      "time": 15.2,
+      "text": "换一个自由的背景",
+      "vocalEnd": 17.8
+    },
+    {
+      "time": 18.2,
+      "text": "每个字都跟着跳起来",
+      "vocalEnd": 20.8
+    },
+    {
+      "time": 21.2,
+      "text": "把这一刻送给未来",
+      "vocalEnd": 23.8
+    }
+  ]
+}
